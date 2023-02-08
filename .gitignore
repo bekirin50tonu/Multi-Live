@@ -9,9 +9,18 @@
 /coverage
 
 # production
-/build
+# /build
+
+/public
+/src
+package.json
+
+
 
 # misc
+package.*.json
+.gitignore
+.vscode
 .DS_Store
 .env.local
 .env.development.local
